@@ -8,6 +8,14 @@ class employee
 {
 private:
     int a, b, c;
+    void print_all_info_function_is_in_private()
+    {
+        cout << "print all info Function which located in Private Function; Value of a is " << a << endl;
+        cout << "print all info Function which located in Private Function; Value of b is " << b << endl;
+        cout << "print all info Function which located in Private Function; Value of c is " << c << endl;
+        cout << "print all info Function which located in Private Function; Value of d is " << d << endl;
+        cout << "print all info Function which located in Private Function; Value of e is " << e << endl;
+    }
 
 public:
     int d, e;
@@ -20,11 +28,14 @@ public:
         cout << "Value of d is " << d << endl;
         cout << "Value of e is " << e << endl;
     }
+
+    void call_private_function() { print_all_info_function_is_in_private(); }
 };
 
 void employee::personal_info(int a1, int b1, int c1)
 {
     a = a1;
+    b = b1;
     b = b1;
     c = c1;
 }
@@ -41,5 +52,7 @@ int main()
     aman.personal_info(45, 14, 78);
 
     aman.print_all_info();
+
+    aman.call_private_function();
     return 0;
 }
