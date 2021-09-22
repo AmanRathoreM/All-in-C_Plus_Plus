@@ -8,6 +8,12 @@
 //*     class members/methods/etc...
 //* }
 
+//* Note:
+//* 1. Default visibility mode is private
+//* 2. Private members are never inherited
+//* 3. Public Visibility Mode: Public members of the base class becomes Public members of the derived class
+//* 4. Private Visibility Mode: Public members of the base class becomes Private members of the derived class
+
 #include <iostream>
 
 using namespace std;
