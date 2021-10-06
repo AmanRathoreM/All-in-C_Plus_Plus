@@ -1,6 +1,6 @@
 //* Date 22-09-2021
 
-//* In this tutorial you learn about Procted Access Modifiers
+//* In this tutorial you learn about Protected Access Modifiers
 
 //* 	                    Public Derivation	Private Derivation	Protected Derivation
 //* Private members	        Not Inherited	    Not Inherited	    Not Inherited
