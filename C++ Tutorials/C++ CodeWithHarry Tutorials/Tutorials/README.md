@@ -1,5 +1,8 @@
 # <h1 style="text-align:center; font-size:360%; font-family:verdana;color:#4A3E76;"><em>C++</em></h1>
 
+# These tutorials are watched from [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "Clike here to checkout his channel") YouTube Channel's [C++ Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL "Clike here to check out his C++ tutorials Playlist").
+
+
 # These tutorials are watched from [**_CodeWithHarry_**](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "Clike here to checkout his channel") YouTube channel from [**_Pyton Playlist_**](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME "Clike here to check out his Python tutorials Playlist")
 
 ---
