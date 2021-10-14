@@ -1,6 +1,6 @@
 # <h1 style="text-align:center; font-size:360%; font-family:verdana;color:#4A3E76;"><em>C++</em></h1>
 
-# These tutorials are watched from [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "Clike here to checkout his channel") YouTube Channel's [C++ Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL "Clike here to check out his C++ tutorials Playlist").
+# These tutorials are watched from [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "Click here to checkout his channel") YouTube Channel's [C++ Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL "Click here to check out his C++ tutorials Playlist").
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## **_1.) tutorial_1 of C/C++_**
+## **_1.) tutorial_1 of C++_**
 
 ### [**_Click me_**](tutorial_1.cpp "Clike here to see full file") to see full file of tutorial_1
 
@@ -31,7 +31,7 @@ int main()
 
 ---
 
-## **_2.) tutorial_3 of C/C++_**
+## **_2.) tutorial_3 of C++_**
 
 ### [**_Click me_**](tutorial_3.cpp "Clike here to see full file") to see full file of tutorial_3
 
@@ -68,7 +68,7 @@ int main()
 
 ---
 
-## **_3.) tutorial_4_1 of C/C++_**
+## **_3.) tutorial_4_1 of C++_**
 
 ### [**_Click me_**](tutorial_4_1.cpp "Clike here to see full file") to see full file of tutorial_4_1
 
@@ -93,7 +93,7 @@ int main()
 
 ---
 
-## **_4.) tutorial_4_2 of C/C++_**
+## **_4.) tutorial_4_2 of C++_**
 
 ### [**_Click me_**](tutorial_4_2.cpp "Clike here to see full file") to see full file of tutorial_4_2
 
@@ -133,7 +133,7 @@ int main()
 
 ---
 
-## **_5.) tutorial_5 of C/C++_**
+## **_5.) tutorial_5 of C++_**
 
 ### [**_Click me_**](tutorial_5.cpp "Clike here to see full file") to see full file of tutorial_5
 
@@ -171,7 +171,7 @@ int main()
 
 ---
 
-## **_6.) tutorial_6_1 of C/C++_**
+## **_6.) tutorial_6_1 of C++_**
 
 ### [**_Click me_**](tutorial_6_1.cpp "Clike here to see full file") to see full file of tutorial_6_1
 
@@ -199,7 +199,7 @@ int main()
 
 ---
 
-## **\_7.) tutorial_6_1**functions** of C/C++\_**
+## **\_7.) tutorial_6_1**functions** of C++\_**
 
 ### [**_Click me_**](tutorial_6_1__functions__.cpp "Clike here to see full file") to see full file of tutorial_6_1**functions**
 
@@ -211,7 +211,7 @@ int main()
 
 ---
 
-## **_8.) tutorial_6_2_0 of C/C++_**
+## **_8.) tutorial_6_2_0 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_0.cpp "Clike here to see full file") to see full file of tutorial_6_2_0
 
@@ -294,7 +294,7 @@ int main()
 
 ---
 
-## **_9.) tutorial_6_2_1 of C/C++_**
+## **_9.) tutorial_6_2_1 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_1.cpp "Clike here to see full file") to see full file of tutorial_6_2_1
 
@@ -343,7 +343,7 @@ int main()
 
 ---
 
-## **_10.) tutorial_6_2_2 of C/C++_**
+## **_10.) tutorial_6_2_2 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_2.cpp "Clike here to see full file") to see full file of tutorial_6_2_2
 
@@ -377,7 +377,7 @@ int main()
 
 ---
 
-## **_11.) tutorial_6_2_3 of C/C++_**
+## **_11.) tutorial_6_2_3 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_3.cpp "Clike here to see full file") to see full file of tutorial_6_2_3
 
@@ -416,7 +416,7 @@ int main()
 
 ---
 
-## **_12.) tutorial_6_2_4 of C/C++_**
+## **_12.) tutorial_6_2_4 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_4.cpp "Clike here to see full file") to see full file of tutorial_6_2_4
 
@@ -457,7 +457,7 @@ int main()
 
 ---
 
-## **_13.) tutorial_6_2_5 of C/C++_**
+## **_13.) tutorial_6_2_5 of C++_**
 
 ### [**_Click me_**](tutorial_6_2_5.cpp "Clike here to see full file") to see full file of tutorial_6_2_5
 
@@ -496,7 +496,7 @@ int main()
 
 ---
 
-## **_14.) tutorial_7_0 of C/C++_**
+## **_14.) tutorial_7_0 of C++_**
 
 ### [**_Click me_**](tutorial_7_0.cpp "Clike here to see full file") to see full file of tutorial_7_0
 
@@ -556,7 +556,7 @@ int main()
 
 ---
 
-## **_15.) tutorial_7_1 of C/C++_**
+## **_15.) tutorial_7_1 of C++_**
 
 ### [**_Click me_**](tutorial_7_1.cpp "Clike here to see full file") to see full file of tutorial_7_1
 
@@ -583,7 +583,7 @@ int main()
 
 ---
 
-## **_16.) tutorial_7_2 of C/C++_**
+## **_16.) tutorial_7_2 of C++_**
 
 ### [**_Click me_**](tutorial_7_2.cpp "Clike here to see full file") to see full file of tutorial_7_2
 
@@ -620,7 +620,7 @@ int main()
 
 ---
 
-## **_17.) tutorial_7_3 of C/C++_**
+## **_17.) tutorial_7_3 of C++_**
 
 ### [**_Click me_**](tutorial_7_3.cpp "Clike here to see full file") to see full file of tutorial_7_3
 
@@ -650,7 +650,7 @@ int main()
 
 ---
 
-## **_18.) tutorial_7_4 of C/C++_**
+## **_18.) tutorial_7_4 of C++_**
 
 ### [**_Click me_**](tutorial_7_4.cpp "Clike here to see full file") to see full file of tutorial_7_4
 
@@ -680,7 +680,7 @@ int main()
 
 ---
 
-## **_19.) tutorial_8_0 of C/C++_**
+## **_19.) tutorial_8_0 of C++_**
 
 ### [**_Click me_**](tutorial_8_0.cpp "Clike here to see full file") to see full file of tutorial_8_0
 
@@ -720,7 +720,7 @@ int main(int argc, char const *argv[])
 
 ---
 
-## **_20.) tutorial_8_1 of C/C++_**
+## **_20.) tutorial_8_1 of C++_**
 
 ### [**_Click me_**](tutorial_8_1.cpp "Clike here to see full file") to see full file of tutorial_8_1
 
@@ -750,7 +750,7 @@ int main()
 
 ---
 
-## **_21.) tutorial_8_2 of C/C++_**
+## **_21.) tutorial_8_2 of C++_**
 
 ### [**_Click me_**](tutorial_8_2.cpp "Clike here to see full file") to see full file of tutorial_8_2
 
@@ -778,7 +778,7 @@ int main()
 
 ---
 
-## **_22.) tutorial_8_3 of C/C++_**
+## **_22.) tutorial_8_3 of C++_**
 
 ### [**_Click me_**](tutorial_8_3.cpp "Clike here to see full file") to see full file of tutorial_8_3
 
@@ -802,7 +802,7 @@ int main()
 
 ---
 
-## **_23.) tutorial_9_1 of C/C++_**
+## **_23.) tutorial_9_1 of C++_**
 
 ### [**_Click me_**](tutorial_9_1.cpp "Clike here to see full file") to see full file of tutorial_9_1
 
@@ -848,7 +848,7 @@ int main()
 
 ---
 
-## **_24.) tutorial_9_2 of C/C++_**
+## **_24.) tutorial_9_2 of C++_**
 
 ### [**_Click me_**](tutorial_9_2.cpp "Clike here to see full file") to see full file of tutorial_9_2
 
@@ -893,7 +893,7 @@ int main()
 
 ---
 
-## **_25.) tutorial_10_1_1 of C/C++_**
+## **_25.) tutorial_10_1_1 of C++_**
 
 ### [**_Click me_**](tutorial_10_1_1.cpp "Clike here to see full file") to see full file of tutorial_10_1_1
 
@@ -920,7 +920,7 @@ int main()
 
 ---
 
-## **_26.) tutorial_10_1_2 of C/C++_**
+## **_26.) tutorial_10_1_2 of C++_**
 
 ### [**_Click me_**](tutorial_10_1_2.cpp "Clike here to see full file") to see full file of tutorial_10_1_2
 
@@ -948,7 +948,7 @@ int main()
 
 ---
 
-## **_27.) tutorial_10_1_3_1 of C/C++_**
+## **_27.) tutorial_10_1_3_1 of C++_**
 
 ### [**_Click me_**](tutorial_10_1_3_1.cpp "Clike here to see full file") to see full file of tutorial_10_1_3_1
 
@@ -976,7 +976,7 @@ int main()
 
 ---
 
-## **_28.) tutorial_10_1_3_1_2 of C/C++_**
+## **_28.) tutorial_10_1_3_1_2 of C++_**
 
 ### [**_Click me_**](tutorial_10_1_3_1_2.cpp "Clike here to see full file") to see full file of tutorial_10_1_3_1_2
 
@@ -1005,7 +1005,7 @@ int main()
 
 ---
 
-## **_29.) tutorial_10_2_quiz of C/C++_**
+## **_29.) tutorial_10_2_quiz of C++_**
 
 ### [**_Click me_**](tutorial_10_2_quiz.cpp "Clike here to see full file") to see full file of tutorial_10_2_quiz
 
@@ -1043,7 +1043,7 @@ int main()
 
 ---
 
-## **_30.) tutorial_11_1 of C/C++_**
+## **_30.) tutorial_11_1 of C++_**
 
 ### [**_Click me_**](tutorial_11_1.cpp "Clike here to see full file") to see full file of tutorial_11_1
 
@@ -1072,7 +1072,7 @@ int main()
 
 ---
 
-## **_31.) tutorial_11_2 of C/C++_**
+## **_31.) tutorial_11_2 of C++_**
 
 ### [**_Click me_**](tutorial_11_2.cpp "Clike here to see full file") to see full file of tutorial_11_2
 
@@ -1101,7 +1101,7 @@ int main()
 
 ---
 
-## **_32.) tutorial_12 of C/C++_**
+## **_32.) tutorial_12 of C++_**
 
 ### [**_Click me_**](tutorial_12.cpp "Clike here to see full file") to see full file of tutorial_12
 
@@ -1133,7 +1133,7 @@ int main()
 
 ---
 
-## **_33.) tutorial_13_1_1_1 of C/C++_**
+## **_33.) tutorial_13_1_1_1 of C++_**
 
 ### [**_Click me_**](tutorial_13_1_1_1.cpp "Clike here to see full file") to see full file of tutorial_13_1_1_1
 
@@ -1160,7 +1160,7 @@ int main()
 
 ---
 
-## **_34.) tutorial_13_1_1_2 of C/C++_**
+## **_34.) tutorial_13_1_1_2 of C++_**
 
 ### [**_Click me_**](tutorial_13_1_1_2.cpp "Clike here to see full file") to see full file of tutorial_13_1_1_2
 
@@ -1192,7 +1192,7 @@ int main()
 
 ---
 
-## **_35.) tutorial_13_1_2 of C/C++_**
+## **_35.) tutorial_13_1_2 of C++_**
 
 ### [**_Click me_**](tutorial_13_1_2.cpp "Clike here to see full file") to see full file of tutorial_13_1_2
 
@@ -1220,7 +1220,7 @@ int main()
 
 ---
 
-## **_36.) tutorial_13_2_1_quiz of C/C++_**
+## **_36.) tutorial_13_2_1_quiz of C++_**
 
 ### [**_Click me_**](tutorial_13_2_1_quiz.cpp "Clike here to see full file") to see full file of tutorial_13_2_1_quiz
 
@@ -1260,7 +1260,7 @@ int main()
 
 ---
 
-## **_37.) tutorial_13_2_2_quiz of C/C++_**
+## **_37.) tutorial_13_2_2_quiz of C++_**
 
 ### [**_Click me_**](tutorial_13_2_2_quiz.cpp "Clike here to see full file") to see full file of tutorial_13_2_2_quiz
 
@@ -1300,7 +1300,7 @@ int main()
 
 ---
 
-## **_38.) tutorial_14_1_1 of C/C++_**
+## **_38.) tutorial_14_1_1 of C++_**
 
 ### [**_Click me_**](tutorial_14_1_1.cpp "Clike here to see full file") to see full file of tutorial_14_1_1
 
@@ -1346,7 +1346,7 @@ int main()
 
 ---
 
-## **_39.) tutorial_14_1_2 of C/C++_**
+## **_39.) tutorial_14_1_2 of C++_**
 
 ### [**_Click me_**](tutorial_14_1_2.cpp "Clike here to see full file") to see full file of tutorial_14_1_2
 
@@ -1393,7 +1393,7 @@ int main()
 
 ---
 
-## **_40.) tutorial_14_2 of C/C++_**
+## **_40.) tutorial_14_2 of C++_**
 
 ### [**_Click me_**](tutorial_14_2.cpp "Clike here to see full file") to see full file of tutorial_14_2
 
@@ -1428,7 +1428,7 @@ int main()
 
 ---
 
-## **_41.) tutorial_14_3 of C/C++_**
+## **_41.) tutorial_14_3 of C++_**
 
 ### [**_Click me_**](tutorial_14_3.cpp "Clike here to see full file") to see full file of tutorial_14_3
 
@@ -1461,7 +1461,7 @@ int main()
 
 ---
 
-## **_42.) tutorial_15 of C/C++_**
+## **_42.) tutorial_15 of C++_**
 
 ### [**_Click me_**](tutorial_15.cpp "Clike here to see full file") to see full file of tutorial_15
 
@@ -1501,7 +1501,7 @@ int square(int x)
 
 ---
 
-## **_43.) tutorial_16_0 of C/C++_**
+## **_43.) tutorial_16_0 of C++_**
 
 ### [**_Click me_**](tutorial_16_0.cpp "Clike here to see full file") to see full file of tutorial_16_0
 
@@ -1584,7 +1584,7 @@ int main()
 
 ---
 
-## **_44.) tutorial_16_1 of C/C++_**
+## **_44.) tutorial_16_1 of C++_**
 
 ### [**_Click me_**](tutorial_16_1.cpp "Clike here to see full file") to see full file of tutorial_16_1
 
@@ -1633,7 +1633,7 @@ int main()
 
 ---
 
-## **_45.) tutorial_16_2 of C/C++_**
+## **_45.) tutorial_16_2 of C++_**
 
 ### [**_Click me_**](tutorial_16_2.cpp "Clike here to see full file") to see full file of tutorial_16_2
 
@@ -1675,7 +1675,7 @@ int main()
 
 ---
 
-## **_46.) tutorial_16_3 of C/C++_**
+## **_46.) tutorial_16_3 of C++_**
 
 ### [**_Click me_**](tutorial_16_3.cpp "Clike here to see full file") to see full file of tutorial_16_3
 
@@ -1717,7 +1717,7 @@ int main()
 
 ---
 
-## **_47.) tutorial_17_0 of C/C++_**
+## **_47.) tutorial_17_0 of C++_**
 
 ### [**_Click me_**](tutorial_17_0.cpp "Clike here to see full file") to see full file of tutorial_17_0
 
@@ -1749,7 +1749,7 @@ int main()
 
 ---
 
-## **_48.) tutorial_17_1 of C/C++_**
+## **_48.) tutorial_17_1 of C++_**
 
 ### [**_Click me_**](tutorial_17_1.cpp "Clike here to see full file") to see full file of tutorial_17_1
 
@@ -1809,7 +1809,7 @@ int main()
 
 ---
 
-## **_49.) tutorial_17_2 of C/C++_**
+## **_49.) tutorial_17_2 of C++_**
 
 ### [**_Click me_**](tutorial_17_2.cpp "Clike here to see full file") to see full file of tutorial_17_2
 
@@ -1845,7 +1845,7 @@ int main()
 
 ---
 
-## **_50.) tutorial_18_1 of C/C++_**
+## **_50.) tutorial_18_1 of C++_**
 
 ### [**_Click me_**](tutorial_18_1.cpp "Clike here to see full file") to see full file of tutorial_18_1
 
@@ -1884,7 +1884,7 @@ int main()
 
 ---
 
-## **_51.) tutorial_18_2 of C/C++_**
+## **_51.) tutorial_18_2 of C++_**
 
 ### [**_Click me_**](tutorial_18_2.cpp "Clike here to see full file") to see full file of tutorial_18_2
 
@@ -1939,7 +1939,7 @@ int main()
 
 ---
 
-## **_52.) tutorial_19_1 of C/C++_**
+## **_52.) tutorial_19_1 of C++_**
 
 ### [**_Click me_**](tutorial_19_1.cpp "Clike here to see full file") to see full file of tutorial_19_1
 
@@ -1973,7 +1973,7 @@ int main()
 
 ---
 
-## **_53.) tutorial_19_2 of C/C++_**
+## **_53.) tutorial_19_2 of C++_**
 
 ### [**_Click me_**](tutorial_19_2.cpp "Clike here to see full file") to see full file of tutorial_19_2
 
@@ -2015,7 +2015,7 @@ int main()
 
 ---
 
-## **_54.) tutorial_21 of C/C++_**
+## **_54.) tutorial_21 of C++_**
 
 ### [**_Click me_**](tutorial_21.cpp "Clike here to see full file") to see full file of tutorial_21
 
@@ -2083,7 +2083,7 @@ int main()
 
 ---
 
-## **_55.) tutorial_22 of C/C++_**
+## **_55.) tutorial_22 of C++_**
 
 ### [**_Click me_**](tutorial_22.cpp "Clike here to see full file") to see full file of tutorial_22
 
@@ -2162,7 +2162,7 @@ int main()
 
 ---
 
-## **_56.) tutorial_23 of C/C++_**
+## **_56.) tutorial_23 of C++_**
 
 ### [**_Click me_**](tutorial_23.cpp "Clike here to see full file") to see full file of tutorial_23
 
@@ -2215,7 +2215,7 @@ int main()
 
 ---
 
-## **_57.) tutorial_24_1 of C/C++_**
+## **_57.) tutorial_24_1 of C++_**
 
 ### [**_Click me_**](tutorial_24_1.cpp "Clike here to see full file") to see full file of tutorial_24_1
 
@@ -2263,7 +2263,7 @@ int main()
 
 ---
 
-## **_58.) tutorial_24_2 of C/C++_**
+## **_58.) tutorial_24_2 of C++_**
 
 ### [**_Click me_**](tutorial_24_2.cpp "Clike here to see full file") to see full file of tutorial_24_2
 
@@ -2323,7 +2323,7 @@ int main()
 
 ---
 
-## **_59.) tutorial_25_1 of C/C++_**
+## **_59.) tutorial_25_1 of C++_**
 
 ### [**_Click me_**](tutorial_25_1.cpp "Clike here to see full file") to see full file of tutorial_25_1
 
@@ -2372,7 +2372,7 @@ int main()
 
 ---
 
-## **_60.) tutorial_25_2 of C/C++_**
+## **_60.) tutorial_25_2 of C++_**
 
 ### [**_Click me_**](tutorial_25_2.cpp "Clike here to see full file") to see full file of tutorial_25_2
 
@@ -2427,7 +2427,7 @@ int main()
 
 ---
 
-## **_61.) tutorial_26 of C/C++_**
+## **_61.) tutorial_26 of C++_**
 
 ### [**_Click me_**](tutorial_26.cpp "Clike here to see full file") to see full file of tutorial_26
 
@@ -2486,7 +2486,7 @@ int main()
 
 ---
 
-## **_62.) tutorial_27_1 of C/C++_**
+## **_62.) tutorial_27_1 of C++_**
 
 ### [**_Click me_**](tutorial_27_1.cpp "Clike here to see full file") to see full file of tutorial_27_1
 
@@ -2574,7 +2574,7 @@ int main()
 
 ---
 
-## **_63.) tutorial_27_2 of C/C++_**
+## **_63.) tutorial_27_2 of C++_**
 
 ### [**_Click me_**](tutorial_27_2.cpp "Clike here to see full file") to see full file of tutorial_27_2
 
@@ -2661,7 +2661,7 @@ int main()
 
 ---
 
-## **_64.) tutorial_28_1 of C/C++_**
+## **_64.) tutorial_28_1 of C++_**
 
 ### [**_Click me_**](tutorial_28_1.cpp "Clike here to see full file") to see full file of tutorial_28_1
 
@@ -2717,7 +2717,7 @@ int main()
 
 ---
 
-## **_65.) tutorial_28_2 of C/C++_**
+## **_65.) tutorial_28_2 of C++_**
 
 ### [**_Click me_**](tutorial_28_2.cpp "Clike here to see full file") to see full file of tutorial_28_2
 
@@ -2784,7 +2784,7 @@ int main()
 
 ---
 
-## **_66.) tutorial_29_1 of C/C++_**
+## **_66.) tutorial_29_1 of C++_**
 
 ### [**_Click me_**](tutorial_29_1.cpp "Clike here to see full file") to see full file of tutorial_29_1
 
@@ -2851,7 +2851,7 @@ Complex_number sum_complex_number(Complex_number sum_complex_number_1, Complex_n
 
 ---
 
-## **_67.) tutorial_29_2 of C/C++_**
+## **_67.) tutorial_29_2 of C++_**
 
 ### [**_Click me_**](tutorial_29_2.cpp "Clike here to see full file") to see full file of tutorial_29_2
 
@@ -2933,7 +2933,7 @@ Complex_number sum_complex_number(Complex_number sum_complex_number_1, Complex_n
 
 ---
 
-## **_68.) tutorial_30_1 of C/C++_**
+## **_68.) tutorial_30_1 of C++_**
 
 ### [**_Click me_**](tutorial_30_1.cpp "Clike here to see full file") to see full file of tutorial_30_1
 
@@ -2980,7 +2980,7 @@ int main()
 
 ---
 
-## **_69.) tutorial_30_2_quiz of C/C++_**
+## **_69.) tutorial_30_2_quiz of C++_**
 
 ### [**_Click me_**](tutorial_30_2_quiz.cpp "Clike here to see full file") to see full file of tutorial_30_2_quiz
 
@@ -3041,7 +3041,7 @@ int main()
 
 ---
 
-## **_70.) tutorial_31 of C/C++_**
+## **_70.) tutorial_31 of C++_**
 
 ### [**_Click me_**](tutorial_31.cpp "Clike here to see full file") to see full file of tutorial_31
 
@@ -3102,7 +3102,7 @@ int main()
 
 ---
 
-## **_71.) tutorial_32 of C/C++_**
+## **_71.) tutorial_32 of C++_**
 
 ### [**_Click me_**](tutorial_32.cpp "Clike here to see full file") to see full file of tutorial_32
 
@@ -3146,7 +3146,7 @@ int main()
 
 ---
 
-## **_72.) tutorial_33 of C/C++_**
+## **_72.) tutorial_33 of C++_**
 
 ### [**_Click me_**](tutorial_33.cpp "Clike here to see full file") to see full file of tutorial_33
 
@@ -3232,7 +3232,7 @@ int main()
 
 ---
 
-## **_73.) tutorial_34_1 of C/C++_**
+## **_73.) tutorial_34_1 of C++_**
 
 ### [**_Click me_**](tutorial_34_1.cpp "Clike here to see full file") to see full file of tutorial_34_1
 
@@ -3294,7 +3294,7 @@ int main()
 
 ---
 
-## **_74.) tutorial_34_2 of C/C++_**
+## **_74.) tutorial_34_2 of C++_**
 
 ### [**_Click me_**](tutorial_34_2.cpp "Clike here to see full file") to see full file of tutorial_34_2
 
@@ -3356,7 +3356,7 @@ int main()
 
 ---
 
-## **_75.) tutorial_34_3 of C/C++_**
+## **_75.) tutorial_34_3 of C++_**
 
 ### [**_Click me_**](tutorial_34_3.cpp "Clike here to see full file") to see full file of tutorial_34_3
 
@@ -3419,7 +3419,7 @@ int main()
 
 ---
 
-## **_76.) tutorial_35 of C/C++_**
+## **_76.) tutorial_35 of C++_**
 
 ### [**_Click me_**](tutorial_35.cpp "Clike here to see full file") to see full file of tutorial_35
 
@@ -3473,7 +3473,7 @@ int main()
 
 ---
 
-## **_77.) tutorial_37_1 of C/C++_**
+## **_77.) tutorial_37_1 of C++_**
 
 ### [**_Click me_**](tutorial_37_1.cpp "Clike here to see full file") to see full file of tutorial_37_1
 
@@ -3552,7 +3552,7 @@ int main()
 
 ---
 
-## **_78.) tutorial_37_2 of C/C++_**
+## **_78.) tutorial_37_2 of C++_**
 
 ### [**_Click me_**](tutorial_37_2.cpp "Clike here to see full file") to see full file of tutorial_37_2
 
@@ -3622,7 +3622,7 @@ int main()
 
 ---
 
-## **_79.) tutorial_38_1 of C/C++_**
+## **_79.) tutorial_38_1 of C++_**
 
 ### [**_Click me_**](tutorial_38_1.cpp "Clike here to see full file") to see full file of tutorial_38_1
 
@@ -3687,7 +3687,7 @@ int main()
 
 ---
 
-## **_80.) tutorial_38_2 of C/C++_**
+## **_80.) tutorial_38_2 of C++_**
 
 ### [**_Click me_**](tutorial_38_2.cpp "Clike here to see full file") to see full file of tutorial_38_2
 
@@ -3755,7 +3755,7 @@ int main()
 
 ---
 
-## **_81.) tutorial_39 of C/C++_**
+## **_81.) tutorial_39 of C++_**
 
 ### [**_Click me_**](tutorial_39.cpp "Clike here to see full file") to see full file of tutorial_39
 
@@ -3801,7 +3801,7 @@ int main()
 
 ---
 
-## **_82.) tutorial_40 of C/C++_**
+## **_82.) tutorial_40 of C++_**
 
 ### [**_Click me_**](tutorial_40.cpp "Clike here to see full file") to see full file of tutorial_40
 
@@ -3932,7 +3932,7 @@ int main()
 
 ---
 
-## **_83.) tutorial_41 of C/C++_**
+## **_83.) tutorial_41 of C++_**
 
 ### [**_Click me_**](tutorial_41.cpp "Clike here to see full file") to see full file of tutorial_41
 
@@ -4065,7 +4065,7 @@ int main()
 
 ---
 
-## **_84.) tutorial_42_exercise of C/C++_**
+## **_84.) tutorial_42_exercise of C++_**
 
 ### [**_Click me_**](tutorial_42_exercise.cpp "Clike here to see full file") to see full file of tutorial_42_exercise
 
@@ -4173,7 +4173,7 @@ int main()
 
 ---
 
-## **_85.) tutorial_43_1 of C/C++_**
+## **_85.) tutorial_43_1 of C++_**
 
 ### [**_Click me_**](tutorial_43_1.cpp "Clike here to see full file") to see full file of tutorial_43_1
 
@@ -4243,7 +4243,7 @@ int main()
 
 ---
 
-## **_86.) tutorial_43_2 of C/C++_**
+## **_86.) tutorial_43_2 of C++_**
 
 ### [**_Click me_**](tutorial_43_2.cpp "Clike here to see full file") to see full file of tutorial_43_2
 
@@ -4291,7 +4291,7 @@ int main()
 
 ---
 
-## **_87.) tutorial_43_3 of C/C++_**
+## **_87.) tutorial_43_3 of C++_**
 
 ### [**_Click me_**](tutorial_43_3.cpp "Clike here to see full file") to see full file of tutorial_43_3
 
@@ -4339,7 +4339,7 @@ int main()
 
 ---
 
-## **_88.) tutorial_45 of C/C++_**
+## **_88.) tutorial_45 of C++_**
 
 ### [**_Click me_**](tutorial_45.cpp "Clike here to see full file") to see full file of tutorial_45
 
@@ -4455,7 +4455,7 @@ int main()
 
 ---
 
-## **_89.) tutorial_48 of C/C++_**
+## **_89.) tutorial_48 of C++_**
 
 ### [**_Click me_**](tutorial_48.cpp "Clike here to see full file") to see full file of tutorial_48
 
@@ -4568,7 +4568,7 @@ int main()
 
 ---
 
-## **_90.) tutorial_49 of C/C++_**
+## **_90.) tutorial_49 of C++_**
 
 ### [**_Click me_**](tutorial_49.cpp "Clike here to see full file") to see full file of tutorial_49
 
@@ -4616,7 +4616,7 @@ int main()
 
 ---
 
-## **_91.) tutorial_50 of C/C++_**
+## **_91.) tutorial_50 of C++_**
 
 ### [**_Click me_**](tutorial_50.cpp "Clike here to see full file") to see full file of tutorial_50
 
@@ -4654,7 +4654,7 @@ int main()
 
 ---
 
-## **_92.) tutorial_51_1_functions of C/C++_**
+## **_92.) tutorial_51_1_functions of C++_**
 
 ### [**_Click me_**](tutorial_51_1_functions.cpp "Clike here to see full file") to see full file of tutorial_51_1_functions
 
@@ -4708,7 +4708,7 @@ void Complex::sum_complex_number(Complex a, Complex b)
 
 ---
 
-## **_93.) tutorial_51_2 of C/C++_**
+## **_93.) tutorial_51_2 of C++_**
 
 ### [**_Click me_**](tutorial_51_2.cpp "Clike here to see full file") to see full file of tutorial_51_2
 
@@ -4740,7 +4740,7 @@ int main()
 
 ---
 
-## **_94.) tutorial_51_3 of C/C++_**
+## **_94.) tutorial_51_3 of C++_**
 
 ### [**_Click me_**](tutorial_51_3.cpp "Clike here to see full file") to see full file of tutorial_51_3
 
@@ -4769,7 +4769,7 @@ int main()
 
 ---
 
-## **_95.) tutorial_51_4 of C/C++_**
+## **_95.) tutorial_51_4 of C++_**
 
 ### [**_Click me_**](tutorial_51_4.cpp "Clike here to see full file") to see full file of tutorial_51_4
 
@@ -4795,7 +4795,7 @@ int main()
 
 ---
 
-## **_96.) tutorial_51_5 of C/C++_**
+## **_96.) tutorial_51_5 of C++_**
 
 ### [**_Click me_**](tutorial_51_5.cpp "Clike here to see full file") to see full file of tutorial_51_5
 
@@ -4820,7 +4820,7 @@ int main()
 
 ---
 
-## **_97.) tutorial_51_6 of C/C++_**
+## **_97.) tutorial_51_6 of C++_**
 
 ### [**_Click me_**](tutorial_51_6.cpp "Clike here to see full file") to see full file of tutorial_51_6
 
@@ -4846,7 +4846,7 @@ int main()
 
 ---
 
-## **_98.) tutorial_51_7 of C/C++_**
+## **_98.) tutorial_51_7 of C++_**
 
 ### [**_Click me_**](tutorial_51_7.cpp "Clike here to see full file") to see full file of tutorial_51_7
 
@@ -4878,7 +4878,7 @@ int main()
 
 ---
 
-## **_99.) tutorial_52_1_functions of C/C++_**
+## **_99.) tutorial_52_1_functions of C++_**
 
 ### [**_Click me_**](tutorial_52_1_functions.cpp "Clike here to see full file") to see full file of tutorial_52_1_functions
 
@@ -4928,7 +4928,7 @@ void Shop::set_data(float price_of_item = 1.1, string name_of_item_company = "No
 
 ---
 
-## **_100.) tutorial_52_2 of C/C++_**
+## **_100.) tutorial_52_2 of C++_**
 
 ### [**_Click me_**](tutorial_52_2.cpp "Clike here to see full file") to see full file of tutorial_52_2
 
@@ -4951,7 +4951,7 @@ int main()
 
 ---
 
-## **_101.) tutorial_52_3 of C/C++_**
+## **_101.) tutorial_52_3 of C++_**
 
 ### [**_Click me_**](tutorial_52_3.cpp "Clike here to see full file") to see full file of tutorial_52_3
 
@@ -4977,7 +4977,7 @@ int main()
 
 ---
 
-## **_102.) tutorial_52_4 of C/C++_**
+## **_102.) tutorial_52_4 of C++_**
 
 ### [**_Click me_**](tutorial_52_4.cpp "Clike here to see full file") to see full file of tutorial_52_4
 
@@ -5002,7 +5002,7 @@ int main()
 
 ---
 
-## **_103.) tutorial_52_5 of C/C++_**
+## **_103.) tutorial_52_5 of C++_**
 
 ### [**_Click me_**](tutorial_52_5.cpp "Clike here to see full file") to see full file of tutorial_52_5
 
@@ -5050,7 +5050,7 @@ int main()
 
 ---
 
-## **_104.) tutorial_52_6 of C/C++_**
+## **_104.) tutorial_52_6 of C++_**
 
 ### [**_Click me_**](tutorial_52_6.cpp "Clike here to see full file") to see full file of tutorial_52_6
 
@@ -5098,7 +5098,7 @@ int main()
 
 ---
 
-## **_105.) tutorial_52_7 of C/C++_**
+## **_105.) tutorial_52_7 of C++_**
 
 ### [**_Click me_**](tutorial_52_7.cpp "Clike here to see full file") to see full file of tutorial_52_7
 
@@ -5150,7 +5150,7 @@ int main()
 
 ---
 
-## **_106.) tutorial_53_1 of C/C++_**
+## **_106.) tutorial_53_1 of C++_**
 
 ### [**_Click me_**](tutorial_53_1.cpp "Clike here to see full file") to see full file of tutorial_53_1
 
@@ -5185,7 +5185,7 @@ int main()
 
 ---
 
-## **_107.) tutorial_53_2 of C/C++_**
+## **_107.) tutorial_53_2 of C++_**
 
 ### [**_Click me_**](tutorial_53_2.cpp "Clike here to see full file") to see full file of tutorial_53_2
 
@@ -5220,7 +5220,7 @@ int main()
 
 ---
 
-## **_108.) tutorial_53_3 of C/C++_**
+## **_108.) tutorial_53_3 of C++_**
 
 ### [**_Click me_**](tutorial_53_3.cpp "Clike here to see full file") to see full file of tutorial_53_3
 
@@ -5263,7 +5263,65 @@ int main()
 
 ---
 
-## **_110.) tutorial_55_1_functions of C/C++_**
+## **_109.) tutorial_54 of C++_**
+
+### [**_Click me_**](tutorial_54.cpp "Clike here to see full file") to see full file of tutorial_54
+
+```C++
+//* Date 08-10-2021
+
+//* In this tutorial you will learn a bit about Polymorphism
+
+#include <iostream>
+
+using namespace std;
+
+/*
+
+
+Polymorphism in C++ | C++ Tutorials for Beginners #54
+In this tutorial, we will discuss polymorphism in C++
+
+Polymorphism in C++
+“Poly” means several and “morphism” means form. So we can say that polymorphism is something that has several forms or we can say it as one name and multiple forms. There are two types of polymorphism:
+
+*   Compile-time polymorphism
+
+*   Run time polymorphism
+
+
+    Compile Time Polymorphism---
+    In compile-time polymorphism, it is already known which function will run. Compile-time polymorphism is also called early binding, which means that you are already bound to the function call and you know that this function is going to run. There are two types of compile-time polymorphism:
+
+        Function Overloading--
+        This is a feature that lets us create more than one function and the functions have the same names but their parameters need to be different. If function overloading is done in the program and function calls are made the compiler already knows that which functions to execute.
+
+        Operator Overloading--
+        This is a feature that lets us define operators working for some specific tasks. For example, we can overload the operator “+” and define its functionality to add two strings. Operator loading is also an example of compile-time polymorphism because the compiler already knows at the compile time which operator has to perform the task.
+
+
+    Run Time Polymorphism---
+    In the run-time polymorphism, the compiler doesn’t know already what will happen at run time. Run time polymorphism is also called late binding. The run time polymorphism is considered slow because function calls are decided at run time. Run time polymorphism can be achieved from the virtual function.
+
+        Virtual Function--
+        A function that is in the parent class but redefined in the child class is called a virtual function. “virtual” keyword is used to declare a virtual function.
+
+
+*/
+
+int main()
+{
+    cout << "Just see comments, all concepts are given there!" << endl;
+
+    return 0;
+}
+```
+
+---
+
+---
+
+## **_110.) tutorial_55_1_functions of C++_**
 
 ### [**_Click me_**](tutorial_55_1_functions.cpp "Clike here to see full file") to see full file of tutorial_55_1_functions
 
@@ -5302,7 +5360,7 @@ public:
 
 ---
 
-## **_111.) tutorial_55_2 of C/C++_**
+## **_111.) tutorial_55_2 of C++_**
 
 ### [**_Click me_**](tutorial_55_2.cpp "Clike here to see full file") to see full file of tutorial_55_2
 
@@ -5331,7 +5389,7 @@ int main()
 
 ---
 
-## **_112.) tutorial_55_3 of C/C++_**
+## **_112.) tutorial_55_3 of C++_**
 
 ### [**_Click me_**](tutorial_55_3.cpp "Clike here to see full file") to see full file of tutorial_55_3
 
@@ -5367,7 +5425,7 @@ int main()
 
 ---
 
-## **_113.) tutorial_56_1_functions of C/C++_**
+## **_113.) tutorial_56_1_functions of C++_**
 
 ### [**_Click me_**](tutorial_56_1_functions.cpp "Clike here to see full file") to see full file of tutorial_56_1_functions
 
@@ -5406,7 +5464,7 @@ public:
 
 ---
 
-## **_114.) tutorial_56_2 of C/C++_**
+## **_114.) tutorial_56_2 of C++_**
 
 ### [**_Click me_**](tutorial_56_2.cpp "Clike here to see full file") to see full file of tutorial_56_2
 
@@ -5436,7 +5494,7 @@ int main()
 
 ---
 
-## **_115.) tutorial_57_1_functions of C/C++_**
+## **_115.) tutorial_57_1_functions of C++_**
 
 ### [**_Click me_**](tutorial_57_1_functions.cpp "Clike here to see full file") to see full file of tutorial_57_1_functions
 
@@ -5529,7 +5587,7 @@ void CWH_b::print_details(void)
 
 ---
 
-## **_116.) tutorial_57_2 of C/C++_**
+## **_116.) tutorial_57_2 of C++_**
 
 ### [**_Click me_**](tutorial_57_2.cpp "Clike here to see full file") to see full file of tutorial_57_2
 
@@ -5553,7 +5611,7 @@ int main()
 
 ---
 
-## **_117.) tutorial_57_3 of C/C++_**
+## **_117.) tutorial_57_3 of C++_**
 
 ### [**_Click me_**](tutorial_57_3.cpp "Clike here to see full file") to see full file of tutorial_57_3
 
@@ -5577,7 +5635,7 @@ int main()
 
 ---
 
-## **_118.) tutorial_57_4 of C/C++_**
+## **_118.) tutorial_57_4 of C++_**
 
 ### [**_Click me_**](tutorial_57_4.cpp "Clike here to see full file") to see full file of tutorial_57_4
 
@@ -5601,7 +5659,7 @@ int main()
 
 ---
 
-## **_119.) tutorial_57_5 of C/C++_**
+## **_119.) tutorial_57_5 of C++_**
 
 ### [**_Click me_**](tutorial_57_5.cpp "Clike here to see full file") to see full file of tutorial_57_5
 
@@ -5627,7 +5685,7 @@ int main()
 
 ---
 
-## **_120.) tutorial_57_6 of C/C++_**
+## **_120.) tutorial_57_6 of C++_**
 
 ### [**_Click me_**](tutorial_57_6.cpp "Clike here to see full file") to see full file of tutorial_57_6
 
@@ -5657,7 +5715,7 @@ int main()
 
 ---
 
-## **_121.) tutorial_57_7 of C/C++_**
+## **_121.) tutorial_57_7 of C++_**
 
 ### [**_Click me_**](tutorial_57_7.cpp "Clike here to see full file") to see full file of tutorial_57_7
 
@@ -5690,7 +5748,7 @@ int main()
 
 ---
 
-## **_122.) tutorial_57_8 of C/C++_**
+## **_122.) tutorial_57_8 of C++_**
 
 ### [**_Click me_**](tutorial_57_8.cpp "Clike here to see full file") to see full file of tutorial_57_8
 
@@ -5730,7 +5788,7 @@ int main()
 
 ---
 
-## **_123.) tutorial_57_9 of C/C++_**
+## **_123.) tutorial_57_9 of C++_**
 
 ### [**_Click me_**](tutorial_57_9.cpp "Clike here to see full file") to see full file of tutorial_57_9
 
@@ -5828,7 +5886,7 @@ int main()
 
 ---
 
-## **_124.) tutorial_58 of C/C++_**
+## **_124.) tutorial_58 of C++_**
 
 ### [**_Click me_**](tutorial_58.cpp "Clike here to see full file") to see full file of tutorial_58
 
@@ -5928,7 +5986,7 @@ int main()
 
 ---
 
-## **_125.) tutorial_60_1 of C/C++_**
+## **_125.) tutorial_60_1 of C++_**
 
 ### [**_Click me_**](tutorial_60_1.cpp "Clike here to see full file") to see full file of tutorial_60_1
 
@@ -5967,7 +6025,7 @@ int main()
 
 ---
 
-## **_126.) tutorial_60_3 of C/C++_**
+## **_126.) tutorial_60_3 of C++_**
 
 ### [**_Click me_**](tutorial_60_3.cpp "Clike here to see full file") to see full file of tutorial_60_3
 
@@ -6009,7 +6067,7 @@ int main()
 
 ---
 
-## **_127.) tutorial_60_5 of C/C++_**
+## **_127.) tutorial_60_5 of C++_**
 
 ### [**_Click me_**](tutorial_60_5.cpp "Clike here to see full file") to see full file of tutorial_60_5
 
@@ -6051,7 +6109,7 @@ int main()
 
 ---
 
-## **_128.) tutorial_61_1 of C/C++_**
+## **_128.) tutorial_61_1 of C++_**
 
 ### [**_Click me_**](tutorial_61_1.cpp "Clike here to see full file") to see full file of tutorial_61_1
 
@@ -6094,7 +6152,7 @@ int main()
 
 ---
 
-## **_129.) tutorial_61_3 of C/C++_**
+## **_129.) tutorial_61_3 of C++_**
 
 ### [**_Click me_**](tutorial_61_3.cpp "Clike here to see full file") to see full file of tutorial_61_3
 
@@ -6137,7 +6195,7 @@ int main()
 
 ---
 
-## **_130.) tutorial_61_5 of C/C++_**
+## **_130.) tutorial_61_5 of C++_**
 
 ### [**_Click me_**](tutorial_61_5.cpp "Clike here to see full file") to see full file of tutorial_61_5
 
@@ -6183,7 +6241,7 @@ int main()
 
 ---
 
-## **_131.) tutorial_62_1 of C/C++_**
+## **_131.) tutorial_62_1 of C++_**
 
 ### [**_Click me_**](tutorial_62_1.cpp "Clike here to see full file") to see full file of tutorial_62_1
 
@@ -6217,7 +6275,7 @@ int main()
 
 ---
 
-## **_132.) tutorial_64_1 of C/C++_**
+## **_132.) tutorial_64_1 of C++_**
 
 ### [**_Click me_**](tutorial_64_1.cpp "Clike here to see full file") to see full file of tutorial_64_1
 
@@ -6294,7 +6352,7 @@ int main()
 
 ---
 
-## **_133.) tutorial_64_2 of C/C++_**
+## **_133.) tutorial_64_2 of C++_**
 
 ### [**_Click me_**](tutorial_64_2.cpp "Clike here to see full file") to see full file of tutorial_64_2
 
@@ -6353,7 +6411,7 @@ int main()
 
 ---
 
-## **_134.) tutorial_65 of C/C++_**
+## **_134.) tutorial_65 of C++_**
 
 ### [**_Click me_**](tutorial_65.cpp "Clike here to see full file") to see full file of tutorial_65
 
@@ -6398,7 +6456,7 @@ int main()
 
 ---
 
-## **_135.) tutorial_66 of C/C++_**
+## **_135.) tutorial_66 of C++_**
 
 ### [**_Click me_**](tutorial_66.cpp "Clike here to see full file") to see full file of tutorial_66
 
@@ -6443,7 +6501,7 @@ int main()
 
 ---
 
-## **_136.) tutorial_67 of C/C++_**
+## **_136.) tutorial_67 of C++_**
 
 ### [**_Click me_**](tutorial_67.cpp "Clike here to see full file") to see full file of tutorial_67
 
@@ -6484,7 +6542,7 @@ int main()
 
 ---
 
-## **_137.) tutorial_68_1 of C/C++_**
+## **_137.) tutorial_68_1 of C++_**
 
 ### [**_Click me_**](tutorial_68_1.cpp "Clike here to see full file") to see full file of tutorial_68_1
 
@@ -6532,7 +6590,7 @@ int main()
 
 ---
 
-## **_138.) tutorial_68_2 of C/C++_**
+## **_138.) tutorial_68_2 of C++_**
 
 ### [**_Click me_**](tutorial_68_2.cpp "Clike here to see full file") to see full file of tutorial_68_2
 
@@ -6577,7 +6635,7 @@ int main()
 
 ---
 
-## **_139.) tutorial_71_1 of C/C++_**
+## **_139.) tutorial_71_1 of C++_**
 
 ### [**_Click me_**](tutorial_71_1.cpp "Clike here to see full file") to see full file of tutorial_71_1
 
@@ -6628,7 +6686,7 @@ int main()
 
 ---
 
-## **_140.) tutorial_71_2 of C/C++_**
+## **_140.) tutorial_71_2 of C++_**
 
 ### [**_Click me_**](tutorial_71_2.cpp "Clike here to see full file") to see full file of tutorial_71_2
 
@@ -6682,7 +6740,7 @@ int main()
 
 ---
 
-## **_141.) tutorial_71_3 of C/C++_**
+## **_141.) tutorial_71_3 of C++_**
 
 ### [**_Click me_**](tutorial_71_3.cpp "Clike here to see full file") to see full file of tutorial_71_3
 
@@ -6739,7 +6797,7 @@ int main()
 
 ---
 
-## **_142.) tutorial_72_1 of C/C++_**
+## **_142.) tutorial_72_1 of C++_**
 
 ### [**_Click me_**](tutorial_72_1.cpp "Clike here to see full file") to see full file of tutorial_72_1
 
@@ -6792,7 +6850,7 @@ int main()
 
 ---
 
-## **_143.) tutorial_72_2 of C/C++_**
+## **_143.) tutorial_72_2 of C++_**
 
 ### [**_Click me_**](tutorial_72_2.cpp "Clike here to see full file") to see full file of tutorial_72_2
 
@@ -6839,7 +6897,7 @@ int main()
 
 ---
 
-## **_144.) tutorial_72_3 of C/C++_**
+## **_144.) tutorial_72_3 of C++_**
 
 ### [**_Click me_**](tutorial_72_3.cpp "Clike here to see full file") to see full file of tutorial_72_3
 
@@ -6889,7 +6947,7 @@ int main()
 
 ---
 
-## **_145.) tutorial_72_4 of C/C++_**
+## **_145.) tutorial_72_4 of C++_**
 
 ### [**_Click me_**](tutorial_72_4.cpp "Clike here to see full file") to see full file of tutorial_72_4
 
@@ -6942,7 +7000,7 @@ int main()
 
 ---
 
-## **_146.) tutorial_72_5 of C/C++_**
+## **_146.) tutorial_72_5 of C++_**
 
 ### [**_Click me_**](tutorial_72_5.cpp "Clike here to see full file") to see full file of tutorial_72_5
 
@@ -6995,7 +7053,7 @@ int main()
 
 ---
 
-## **_147.) tutorial_72_6 of C/C++_**
+## **_147.) tutorial_72_6 of C++_**
 
 ### [**_Click me_**](tutorial_72_6.cpp "Clike here to see full file") to see full file of tutorial_72_6
 
@@ -7051,7 +7109,7 @@ int main()
 
 ---
 
-## **_148.) tutorial_72_7 of C/C++_**
+## **_148.) tutorial_72_7 of C++_**
 
 ### [**_Click me_**](tutorial_72_7.cpp "Clike here to see full file") to see full file of tutorial_72_7
 
@@ -7122,7 +7180,7 @@ int main()
 
 ---
 
-## **_149.) tutorial_72_8 of C/C++_**
+## **_149.) tutorial_72_8 of C++_**
 
 ### [**_Click me_**](tutorial_72_8.cpp "Clike here to see full file") to see full file of tutorial_72_8
 
@@ -7180,7 +7238,7 @@ int main()
 
 ---
 
-## **_150.) tutorial_72_9 of C/C++_**
+## **_150.) tutorial_72_9 of C++_**
 
 ### [**_Click me_**](tutorial_72_9.cpp "Clike here to see full file") to see full file of tutorial_72_9
 
@@ -7238,6 +7296,188 @@ int main()
     li_1.merge(li_2);
     li_1.sort();
     display_list<int>(li_1);
+
+    return 0;
+}
+```
+
+---
+
+---
+
+## **_151.) tutorial_73_1 of C++_**
+
+### [**_Click me_**](tutorial_73_1.cpp "Clike here to see full file") to see full file of tutorial_73_1
+
+```C++
+/*
+Date 14-10-2021
+
+In this tutorial, you will learn about map in C++ STL
+*/
+
+#include <iostream>
+#include <map>
+#include <string>
+
+using namespace std;
+
+void display(map<string, int> &marks)
+{
+    map<string, int>::iterator iter;
+    for (iter = marks.begin(); iter != marks.end(); iter++)
+    {
+        cout << (*iter).first << " got " << (*iter).second << " marks" << endl;
+    }
+}
+
+int main()
+{
+
+    map<string, int> marks;
+    marks["Rohit"] = 64;
+    marks["Rohan"] = 24;
+    marks["Aman"] = 67;
+    marks["Suresh"] = 42;
+    marks["Bablu"] = 98;
+
+    display(marks);
+
+    return 0;
+}
+```
+
+---
+
+---
+
+## **_152.) tutorial_73_2 of C++_**
+
+### [**_Click me_**](tutorial_73_2.cpp "Clike here to see full file") to see full file of tutorial_73_2
+
+```C++
+/*
+Date 14-10-2021
+
+In this tutorial, you will learn about map in C++ STL
+*/
+
+#include <iostream>
+#include <map>
+#include <string>
+
+using namespace std;
+
+void display(map<string, int> &marks)
+{
+    map<string, int>::iterator iter;
+    for (iter = marks.begin(); iter != marks.end(); iter++)
+    {
+        cout << (*iter).first << " " << (*iter).second << endl;
+    }
+}
+
+int main()
+{
+
+    map<string, int> marks;
+    marks["Rohit"] = 64;
+    marks["Rohan"] = 24;
+    marks["Aman"] = 67;
+    marks["Suresh"] = 42;
+    marks["Bablu"] = 12;
+
+    marks.insert({{"Naman", 48}, {"Harry", 91}});
+
+    display(marks);
+
+    return 0;
+}
+```
+
+---
+
+---
+
+## **_153.) tutorial_74_1 of C++_**
+
+### [**_Click me_**](tutorial_74_1.cpp "Clike here to see full file") to see full file of tutorial_74_1
+
+```C++
+/*
+Date 14-10-2021
+
+In this tutorial, you will learn about function objects
+Note: We also call function object as Functor
+*/
+
+#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+int main()
+{
+
+    int arr[] = {45, 78, 36, 94, 12, 98, 89, 54, 32, 87, 15, 54, 4, 85, 63, 41, 74, 85, 93, 1};
+
+    for (int i = 0; i < 20; i++)
+    {
+        cout << *(arr + i) << " ";
+    }
+    sort(arr, arr + 19);
+    cout << endl;
+    for (int i = 0; i < 20; i++)
+    {
+        cout << *(arr + i) << " ";
+        // cout << "Element on index number " << i << " is " << (arr + i) << " \n";
+    }
+
+    return 0;
+}
+```
+
+---
+
+---
+
+## **_154.) tutorial_74_2 of C++_**
+
+### [**_Click me_**](tutorial_74_2.cpp "Clike here to see full file") to see full file of tutorial_74_2
+
+```C++
+/*
+Date 14-10-2021
+
+In this tutorial, you will learn about function objects
+Note: We also call function object as Functor
+*/
+
+#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+int main()
+{
+
+    int arr[] = {45, 78, 36, 94, 12, 98, 89, 54, 32, 87, 15, 54, 4, 85, 63, 41, 74, 85, 93, 75};
+
+    for (int i = 0; i < 20; i++)
+    {
+        cout << *(arr + i) << " ";
+    }
+
+    sort(arr, arr + 20, greater<int>());
+
+    cout << endl;
+    for (int i = 0; i < 20; i++)
+    {
+        cout << *(arr + i) << " ";
+        // cout << "Element on index number " << i << " is " << (arr + i) << " \n";
+    }
 
     return 0;
 }
