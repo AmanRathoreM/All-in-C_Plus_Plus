@@ -199,9 +199,9 @@ int main()
 
 ---
 
-## **\_7.) tutorial_6_1**functions** of C++\_**
+## **_7.) tutorial_6_1\_\_functions\_\_ of C++_**
 
-### [**_Click me_**](tutorial_6_1__functions__.cpp "Clike here to see full file") to see full file of tutorial_6_1**functions**
+### [**_Click me_**](tutorial_6_1__functions__.cpp "Clike here to see full file") to see full file of tutorial_6_1\_\_functions\_\_
 
 ```C++
 // Date 26-05-2021
